@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Form Fill-Up Automation",
+    "name": "Fill And Update, Manual",
     "version": "1.0",
     "description": "Automates filling up specific form fields.",
     "permissions": ["activeTab", "scripting"],
